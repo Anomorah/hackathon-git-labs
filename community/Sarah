@@ -1,0 +1,8 @@
+json
+{
+    "name": "anomorah",
+    "course_start": "2022",
+    "course_stage": "student",
+    "favorite_language": "currently HTML",
+    "currently_learning": "CSS"
+}
